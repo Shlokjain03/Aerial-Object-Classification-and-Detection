@@ -59,19 +59,6 @@ Classification Accuracy: ~99% (ResNet50)
 
 Object Detection: High Precision/Recall on test videos.
 
-📁 Project Structure
-├── data/                  # Dataset (Not included in repo, see link above)
-├── models/                # Trained model files (.pth, .pt)
-├── src/
-│   ├── dataset.py         # Data loading and augmentation
-│   ├── train.py
-│   ├── model.py           # CNN and ResNet50 architecture
-├── app.py                 # Streamlit Web Application
-├── train_classifier.py    # Training script for classification
-├── train_yolo.py          # Training script for YOLOv8
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
-
 👨‍💻 Author
 Developed by [Shlok Jain] as part of an Internship Project.
 
