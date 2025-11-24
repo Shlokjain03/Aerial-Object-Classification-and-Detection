@@ -32,10 +32,10 @@ Due to file size limits, the dataset is hosted externally.
    cd aerial-object-detection
 
 2. Install Dependencies
-3. Bash:
+Bash:
 pip install -r requirements.txt
 
-4. Download Model Weights (Optional) If you do not want to retrain, download the pre-trained weights from the Drive link above and place them in the models/ folder.
+3. Download Model Weights (Optional) If you do not want to retrain, download the pre-trained weights from the Drive link above and place them in the models/ folder.
 
 🏃‍♂️ Usage
 
