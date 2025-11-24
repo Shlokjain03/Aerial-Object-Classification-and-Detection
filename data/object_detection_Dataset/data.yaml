@@ -1,0 +1,16 @@
+
+# Absolute paths to ensure YOLO finds the images
+path: C:/Users/DELL/Desktop/aerial_project_2/data/object_detection_Dataset/images
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Bird', 'drone']
+
+roboflow:
+  workspace: new-workspace-x00wt
+  project: drones-and-birds-0muie
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/new-workspace-x00wt/drones-and-birds-0muie/dataset/1
